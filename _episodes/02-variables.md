@@ -26,8 +26,10 @@ Python will assign a float value to the variable `x`. Once a variable is defined
 
 and this command will delete the variable `x` just defined above. You can assign a variable the value of another variable,
 
+> ~~~
 > x = 10.0
 > y = x
+> ~~~
 
 Now, `y` has the same value than `x`.
 
